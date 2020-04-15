@@ -1,7 +1,7 @@
 import socket
 import sys
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server = 'scanme.nmap.org'
+server = 'Target link Here'
 def port_scan(port):
     try:
         s.connect((server,port))
