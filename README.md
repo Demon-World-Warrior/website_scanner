@@ -13,7 +13,7 @@ Linux:
   
   cd webdite_scanner
   
-  #note before going to next step change that target link to desired link
+  #note before going to next step change that server link to desired link in scanner.py file
   
   python3 scanner.py
   
